@@ -16,10 +16,10 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
+      "label": "APP HOMEPAGE",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://garris.github.io/BackstopJS/",
-      "referenceUrl": "",
+      "url": "http://localhost:3000", 
+      "referenceUrl": "https://practical-albattani-9905b9.netlify.app/",
       "readyEvent": "",
       "readySelector": "",
       "delay": 0,

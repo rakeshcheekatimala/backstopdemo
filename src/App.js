@@ -5,8 +5,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Recheck of feat1 deployment <code>src/App.js</code> and save to
-          reload.
+          Recheck of Backstopjs feature test deployment <code>src/App.js</code>{" "}
+          and save to reload.
         </p>
         <a
           className="App-link"
